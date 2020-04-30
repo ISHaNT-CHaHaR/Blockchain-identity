@@ -1,0 +1,19 @@
+{
+  "name": "blockchain-identity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "newfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ISHaNT-CHaHaR/Blockchain-identity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ISHaNT-CHaHaR/Blockchain-identity/issues"
+  },
+  "homepage": "https://github.com/ISHaNT-CHaHaR/Blockchain-identity#readme"
+}
